@@ -4,7 +4,7 @@
 sequenceDiagram
 Alice-->>Bob: Hi, Bob. I'm Alice. 
 Bob-->>Alice: ACK
-Alice-->>Bob: How are you?
+Alice-->>Bob: Nice to meet you. 
 Bob-->>Alice: FIN
 Alice-->>Bob: OMG
 ```

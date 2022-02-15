@@ -1,4 +1,4 @@
-# Marmaid Practice
+# Mermaid Practice
 
 Last-update: 2022-02-16
 
